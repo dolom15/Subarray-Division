@@ -1,1 +1,1 @@
-# Subarray-Division
+# Subarray-Division This code counts the number of contiguous sublists of length `m` in the list `s` whose elements sum up exactly to `d`. It iterates through the list, calculates the sum for each segment of length `m`, and increments a counter whenever the sum matches `d`.
